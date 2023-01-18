@@ -35,6 +35,84 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 7
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 8
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 9
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 10
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 11
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 12
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 13
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 14
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 15
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 16
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 17
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 18
+    },
+    {
+      "name": "yoghurt",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 19
     }
   ]
 }
